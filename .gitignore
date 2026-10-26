@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.DS_Store
+data/
+DAVIS/
+output/
+*.mp4
+*.pt
+*.pth
+*.zip
